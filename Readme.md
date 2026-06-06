@@ -60,7 +60,7 @@ frontend-system-design-notes/
 
 ### Security
 
-* [ ] Security Overview
+* [x] Security Overview
 * [ ] XSS
 * [ ] iFrame Protection
 * [ ] Security Headers
