@@ -19,3 +19,16 @@ Multiple Vulnerability and Mitigation :-
 
 5. Phising Attack :- 
 
+MITIGATION :- 
+ - List all possible way to take user input and sanatize it.
+ - not used innerHTML and replace it with textContent.
+ - Escaping mechanism.
+ - used library like react.
+ - Senetize data :- use library like DOM purify.
+ - to preventing 3rd party endpoint use, CSP Headers
+
+----------------------------------------------------------------------
+
+CSP header :- (Content Security Policy)
+  1. Allowed Sources
+  2. Script Nonces
